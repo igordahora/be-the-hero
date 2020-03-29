@@ -99,3 +99,28 @@ console.log(params);
  - Listar casos especificos de uma ONG
  - Lista todos os casos
  - Entrar em contato com a ONG
+
+# Validação
+https://github.com/arb/celebrate
+
+```bash
+npm i celebrate
+```
+
+# Teste
+https://jestjs.io/
+
+```bash
+npm install --save-dev jest
+npx jest --init
+```
+
+# Pacote para criar variaveis de ambiente
+```bash
+npm install cross-env
+```
+
+# API para Teste
+```bash
+npm install supertest --save-dev
+```
